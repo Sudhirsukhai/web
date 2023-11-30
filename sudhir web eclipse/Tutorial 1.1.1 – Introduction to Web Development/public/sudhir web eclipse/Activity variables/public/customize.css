@@ -1,0 +1,36 @@
+#head
+{
+	font-family: Cambria;
+	text-align: center;
+}
+
+label
+{
+	display: inline-block;
+	width: 175px;
+	font-family: Cambria;
+	text-align: left;
+	
+}
+
+#lblfname
+{
+	margin-left: 2px;
+}
+
+img
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+button
+{
+	margin-left: 100px;
+}
+
+#lbl,#SecondPart
+{
+	text-align: center;
+}
